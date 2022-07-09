@@ -1,0 +1,48 @@
+.list{
+	padding-left:0}
+.list li{
+	list-style-type:none}
+.floated li{
+	float:left}
+audio{
+	display:none}
+.soundboard{
+	margin-top:0}
+.soundboard li{
+	width:100%;
+	margin:1px;
+}
+.soundboard button{
+	display: block;
+	background-repeat:no-repeat;
+	background-position:center center;
+	max-width:100%;
+	text-align:center}
+.soundboard li a img{
+	max-width:100%}
+.soundboard li a:hover{
+	-moz-opacity:.8;
+	-khtml-opacity:.8;
+	-webkit-opacity:.8;
+	opacity:.8;
+	filter:alpha(opacity=80)}
+
+
+.elston{
+	width: 100%;
+	height: 80px;
+}
+
+.guy{
+	width: 100%;
+	height: 800px;
+}
+
+ul {
+	margin: -3px;
+}
+
+button {
+width: 100%;
+margin-bottom: 2px;
+}
